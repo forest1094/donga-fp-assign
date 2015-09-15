@@ -1,0 +1,28 @@
+add
+cab
+kee
+bad
+dad
+kea
+cee
+ved
+ace
+*
+add
+ace
+cab
+cee
+dad
+kee
+ved
+
+알파벳 0~25(a~z)
+a == 97 && z == 122
+a-97 == 0
+
+arr[i].element => abc가 들어있는 줄
+Q[] => abcd... 에 해당되는 버켓
+Q[].queue[] => 버켓은 10개의 큐
+Q[].queue[].element => 버켓의 큐에 들어있는 문자열
+check[n] => n+97 하면 알파벳
+check[] => 의 값이 알파벳 갯수

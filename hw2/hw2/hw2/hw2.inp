@@ -1,0 +1,5 @@
+10 9 8 7 6 5 4 3 2 1 3 3 3
+*
+
+checkFrozen return -1  => ÀüºÎ ÇÁ·ÎÁð // ÇÁ·ÎÁðÀÌ ¾Æ´Ñ ÀÎµ¦½º
+frozen => 0:normal, 1:frozen, -1:pop

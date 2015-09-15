@@ -1,0 +1,36 @@
+add
+cab
+fee
+bad
+dad
+bee
+bed
+ace
+*
+add    ace  ace
+ace    add  add
+bad <- cab  bad
+cab <- bad  cab
+cee    cee  cee
+dad    dad  dad
+kee    ved  kee
+ved    kee  ved
+
+count = 정렬해야될 문자열 갯수
+addr = 몇번째 arr인지
+arr = 문자열이 들어있는 구조체 배열
+index = arr[].str[index] 
+Q[] = 0~26번 버켓
+
+arr[addr].str[]==
+
+알파벳 0~25(a~z)
+a == 97 && z == 122
+a-97 == 0
+
+arr[i].element => abc가 들어있는 줄
+Q[] => abcd... 에 해당되는 버켓
+Q[].queue[] => 버켓은 10개의 큐
+Q[].queue[].element => 버켓의 큐에 들어있는 문자열
+check[n] => n+97 하면 알파벳
+check[] => 의 값이 알파벳 갯수

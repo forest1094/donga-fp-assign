@@ -1,0 +1,6 @@
+//// 장재 줄꺼 함수
+void linearProbing(int m, int dataLen, int *data, int *first, int *second);
+	// 선형조사법
+
+void quadraticProbing(int m, int dataLen, int *data, int *first, int *second);
+	// 이차조사법
